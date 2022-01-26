@@ -6,3 +6,7 @@ https://www.makeapie.com/explore.html 网站克隆
 进度汇报：
 内容已经抓取完毕
 现在正在思考如何🤔如何更加方便的使用数据
+
+2022 01 16 进度汇报
+
+[show_charts](./8441643177091_.pic.jpg)
