@@ -20,7 +20,6 @@ https://www.makeapie.com/explore.html 网站克隆
 
 我知道看json很痛，俺的应用程序还在 🐌 更新中...
 
-我想  🍞  加速！
 
 如果帮到了您，还请 发 电 ⚡️⚡️ 支持一下下 🍞 
 
