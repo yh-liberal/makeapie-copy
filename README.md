@@ -23,7 +23,7 @@ https://www.makeapie.com/explore.html 网站克隆
 
 如果帮到了您，还请 发 电 ⚡️⚡️ 支持一下下 🍞 
 
-[⛄️] [好的！这就来支持！](https://dun.mianbaoduo.com/@waaaa)
+[⛄️] [支持一下！](https://dun.mianbaoduo.com/@waaaa)
 [🤒] [算了吧](https://dun.mianbaoduo.com/@waaaa)
 
 
