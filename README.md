@@ -18,7 +18,7 @@ https://www.makeapie.com/explore.html 网站克隆
 > 链接: https://pan.baidu.com/s/1hyXEM5AwWZXIGm1ZU8uYNA 提取码: ergc
 > 说明： data是列表数据 detail是详情数据 image是图片哦
 
-我知道看json很痛，俺的应用程序还在 🐌 更新中...
+我知道看json很痛，俺的应用程序还在 🐌 更新中... [好的！这就来投喂加速！](https://dun.mianbaoduo.com/@waaaa)
 
 
 如果帮到了您，还请 发 电 ⚡️⚡️ 支持一下下 🍞 
