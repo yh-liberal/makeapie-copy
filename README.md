@@ -7,6 +7,21 @@ https://www.makeapie.com/explore.html 网站克隆
 内容已经抓取完毕
 现在正在思考如何🤔如何更加方便的使用数据
 
+
+2022-02-17 工作汇报
+
+项目废弃，没刚需，没支持，没内驱力。
+
+我发现有些小伙伴开发了在线的，已经挺成熟了，感觉没必要再开发了。
+
+需要的小同志可以去👇🏻这些网站看看
+
+http://pie.antcode.net/#/
+
+http://analysis.datains.cn/finance-admin/#/chartLib/all
+
+自己需要搭建的可以直接拿我抓取的数据
+
 2022-02-14 工作汇报
 
 **抓取下来的数据文件**
@@ -18,13 +33,6 @@ https://www.makeapie.com/explore.html 网站克隆
 > 链接: https://pan.baidu.com/s/1hyXEM5AwWZXIGm1ZU8uYNA 提取码: ergc
 > 说明： data是列表数据 detail是详情数据 image是图片哦
 
-我知道看json很痛，俺的应用程序还在 🐌 更新中... [好的！这就来投喂加速！](https://dun.mianbaoduo.com/@waaaa)
-
-
-如果帮到了您，还请 发 电 ⚡️⚡️ 支持一下下 🍞 
-
-[⛄️] [支持一下！](https://dun.mianbaoduo.com/@waaaa)
-[🤒] [算了吧](https://dun.mianbaoduo.com/@waaaa)
 
 
 2022-01-26 进度汇报
